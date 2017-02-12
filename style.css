@@ -1,0 +1,38 @@
+body {
+  margin-top: 75px;
+  background: #616161; }
+
+.link {
+  stroke: #000;
+  stroke-opacity: 0.6; }
+
+.flag {
+  position: absolute; }
+
+.flag-container {
+  position: absolute; }
+
+.graph {
+  background-color: white;
+  position: relative;
+  margin: 0 auto;
+  border: 10px solid #BDBDBD;
+  width: 700px;
+  height: 700px;
+  -moz-box-shadow: 0px 0px 5px #F5F5F5;
+  -webkit-box-shadow: 0px 0px 5px #F5F5F5;
+  box-shadow: 0px 0px 5px #F5F5F5; }
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  width: 200px;
+  height: auto;
+  font: 12px sans-serif;
+  background: white;
+  border: 1px solid #616161;
+  border-radius: 8px;
+  pointer-events: none; }
+
+/*# sourceMappingURL=style.css.map */
